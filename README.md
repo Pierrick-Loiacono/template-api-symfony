@@ -8,4 +8,4 @@ Au niveau des routes vous trouverez :
 - api/login_check : Connexion utilisateur avec email et mot de passe
 - api/auth/me : Permet de récupérer quelques infos utilisateur
 - api/logout : Déconnexion
-- api/refresh/token : Refresh le token jwt lorsqu'il arrive à expiration / ou a expiré
+- api/token/refresh : Refresh le token jwt lorsqu'il arrive à expiration / ou a expiré
